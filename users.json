@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Wonderland",
+    "age": 30,
+    "city": "New York"
+  },
+  {
+    "id": 2,
+    "name": "Bob The Builder",
+    "age": 25,
+    "city": "London"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Chaplin",
+    "age": 42,
+    "city": "Paris"
+  },
+  {
+    "id": 4,
+    "name": "Diana Prince",
+    "age": 28,
+    "city": "Themyscira"
+  }
+]
